@@ -189,17 +189,25 @@ const searchTerms = [
 
 for (let term of searchTerms) {
   rp({
-    uri: `https://addons.mozilla.org/api/v4/addons/search/?app=firefox&appversion=67.0&platform=mac&q=${term}&lang=en-US`,
+    uri: `https://addons.mozilla.org/api/v4/addons/search/?app=firefox&appversion=67.0&platform=mac&q=${term}&lang=en-US&page_size=100`,
     json: true
   }).then(data => {
     const results = data.results;
     console.log("Search results for: ", term);
     let count = 1;
+    let taarCount = 0;
     for (let addon of results) {
-      console.log(
-        `${count} | ${addon.name} | ${taarAddons.includes(addon.guid)}`
-      );
+      const isWhitelisted = taarAddons.includes(addon.guid);
+      if (isWhitelisted) {
+        taarCount++;
+      }
+      if (isWhitelisted) {
+        console.log(
+          `${count} | ${addon.name} | ${taarAddons.includes(addon.guid)}`
+        );
+      }
       count++;
     }
+    console.log("Number of TAAR results: ", taarCount);
   });
 }
