@@ -288,7 +288,7 @@ for (let term of searchTerms) {
   termData[term] = { term, rank: termCount };
   termCount++;
   rp({
-    uri: `https://addons.mozilla.org/api/v4/addons/search/?app=firefox&appversion=67.0&platform=mac&q=${urlencode(
+    uri: `https://addons.mozilla.org/api/v4/addons/search/?app=firefox&q=${urlencode(
       term
     )}&lang=en-US&page_size=50`,
     json: true
@@ -321,11 +321,12 @@ for (let term of searchTerms) {
       taarCount,
       nonRecommendedTop10
     };
-    // console.log(
-    //   `${termCount} | ${term} | ${
-    //     results.length
-    //   } | ${taarCount} | ${nonRecommendedTop10}`
-    // );
-    console.log(termData[term], ",");
+    const termInfo = termData[term];
+    console.log(
+      `${termInfo.rank} | ${term} | ${termInfo.results} | ${
+        termInfo.taarCount
+      } | ${termInfo.nonRecommendedTop10}`
+    );
+    // console.log(termData[term], ",");
   });
 }
