@@ -1,4 +1,5 @@
 const rp = require("request-promise-native");
+const urlencode = require("urlencode");
 
 const taarAddons = [
   "jid1-MnnxcxisBPnSXQ@jetpack",
@@ -277,30 +278,54 @@ const searchTerms = [
   "last pass"
 ];
 
-const smallTerms = ["adblock", "ublock", "vpn"];
+console.log(
+  "Search term rank | Search term | Number of search results | Number of TAAR results | Number of top 10 non-TAAR results"
+);
 
-// for (let term of searchTerms) {
-for (let term of smallTerms) {
+const termData = {};
+let termCount = 1;
+for (let term of searchTerms) {
+  termData[term] = { term, rank: termCount };
+  termCount++;
   rp({
-    uri: `https://addons.mozilla.org/api/v4/addons/search/?app=firefox&appversion=67.0&platform=mac&q=${term}&lang=en-US&page_size=1000`,
+    uri: `https://addons.mozilla.org/api/v4/addons/search/?app=firefox&appversion=67.0&platform=mac&q=${urlencode(
+      term
+    )}&lang=en-US&page_size=50`,
     json: true
   }).then(data => {
     const results = data.results;
-    console.log("Search results for: ", term);
     let count = 1;
     let taarCount = 0;
+    let nonRecommendedTop10 = 0;
+
     for (let addon of results) {
       const isWhitelisted = taarAddons.includes(addon.guid);
       if (isWhitelisted) {
         taarCount++;
+      } else {
+        // not recommended add-on
+        if (count <= 10) {
+          nonRecommendedTop10++;
+        }
       }
-      if (isWhitelisted) {
-        console.log(
-          `${count} | ${addon.name} | ${taarAddons.includes(addon.guid)}`
-        );
-      }
+      // if (isWhitelisted) {
+      //   console.log(
+      //     `${count} | ${addon.name} | ${taarAddons.includes(addon.guid)}`
+      //   );
+      // }
       count++;
     }
-    console.log("Number of TAAR results: ", taarCount);
+    termData[term] = {
+      ...termData[term],
+      results: results.length,
+      taarCount,
+      nonRecommendedTop10
+    };
+    // console.log(
+    //   `${termCount} | ${term} | ${
+    //     results.length
+    //   } | ${taarCount} | ${nonRecommendedTop10}`
+    // );
+    console.log(termData[term], ",");
   });
 }

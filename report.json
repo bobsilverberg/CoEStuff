@@ -1,0 +1,702 @@
+[
+  {
+    "term": "переводчик",
+    "rank": 47,
+    "results": 5,
+    "taarCount": 0,
+    "nonRecommendedTop10": 5
+  },
+  {
+    "term": "shockwave flash",
+    "rank": 48,
+    "results": 14,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "Shockwave Flash",
+    "rank": 64,
+    "results": 14,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "dashlane",
+    "rank": 78,
+    "results": 16,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "zenmate",
+    "rank": 81,
+    "results": 15,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "adobe flash player",
+    "rank": 61,
+    "results": 20,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "shockwave",
+    "rank": 51,
+    "results": 20,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "video download helper",
+    "rank": 59,
+    "results": 10,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "internet download manager",
+    "rank": 43,
+    "results": 21,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "traductor",
+    "rank": 57,
+    "results": 34,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "savefrom",
+    "rank": 94,
+    "results": 42,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "vlc",
+    "rank": 72,
+    "results": 46,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "dark",
+    "rank": 40,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "idm",
+    "rank": 6,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "abp",
+    "rank": 56,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "honey",
+    "rank": 69,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "instagram",
+    "rank": 71,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "adobe",
+    "rank": 23,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "翻译",
+    "rank": 24,
+    "results": 38,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "screenshot",
+    "rank": 60,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "IDM",
+    "rank": 53,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "hoxx",
+    "rank": 52,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "vpn",
+    "rank": 3,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "ghostery",
+    "rank": 28,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "silverlight",
+    "rank": 58,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "imacros",
+    "rank": 97,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "facebook",
+    "rank": 68,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "pdf",
+    "rank": 25,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "adblocker",
+    "rank": 20,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "lastpass",
+    "rank": 11,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "gmail",
+    "rank": 80,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "adobe flash",
+    "rank": 36,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "browsec",
+    "rank": 30,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "flashgot",
+    "rank": 82,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "addblock",
+    "rank": 15,
+    "results": 50,
+    "taarCount": 9,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "cookie",
+    "rank": 67,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "ublock origin",
+    "rank": 22,
+    "results": 31,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "https",
+    "rank": 54,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "google translate",
+    "rank": 83,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "youtube mp3",
+    "rank": 46,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "download",
+    "rank": 8,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "video downloader",
+    "rank": 12,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "video",
+    "rank": 13,
+    "results": 50,
+    "taarCount": 5,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "ad block",
+    "rank": 10,
+    "results": 50,
+    "taarCount": 5,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "tampermonkey",
+    "rank": 93,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "hola",
+    "rank": 62,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "mp3",
+    "rank": 45,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "selenium",
+    "rank": 96,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "ad blocker",
+    "rank": 26,
+    "results": 50,
+    "taarCount": 5,
+    "nonRecommendedTop10": 6
+  },
+  {
+    "term": "translator",
+    "rank": 41,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "translate",
+    "rank": 17,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "ad",
+    "rank": 34,
+    "results": 50,
+    "taarCount": 6,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "anonymox",
+    "rank": 18,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "vk",
+    "rank": 50,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "whatsapp",
+    "rank": 75,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "flash",
+    "rank": 4,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "video download",
+    "rank": 16,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "firebug",
+    "rank": 14,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "VPN",
+    "rank": 42,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "downloadhelper",
+    "rank": 44,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "youtube",
+    "rank": 5,
+    "results": 50,
+    "taarCount": 6,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "add",
+    "rank": 63,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "flash player",
+    "rank": 29,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "user",
+    "rank": 92,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "flash video downloader",
+    "rank": 91,
+    "results": 23,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "youtube video downloader",
+    "rank": 74,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "adblok",
+    "rank": 85,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "youtube downloader",
+    "rank": 9,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "no script",
+    "rank": 87,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "java",
+    "rank": 7,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "privacy badger",
+    "rank": 76,
+    "results": 49,
+    "taarCount": 5,
+    "nonRecommendedTop10": 5
+  },
+  {
+    "term": "user agent",
+    "rank": 66,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "themes",
+    "rank": 65,
+    "results": 50,
+    "taarCount": 0,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "download video",
+    "rank": 79,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "adblock plus",
+    "rank": 19,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "download youtube",
+    "rank": 73,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "ADBLOCK",
+    "rank": 98,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "ublock",
+    "rank": 2,
+    "results": 50,
+    "taarCount": 9,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "add block",
+    "rank": 37,
+    "results": 50,
+    "taarCount": 7,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "adblock",
+    "rank": 1,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "proxy",
+    "rank": 32,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "add blocker",
+    "rank": 55,
+    "results": 50,
+    "taarCount": 6,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "downthemall",
+    "rank": 70,
+    "results": 50,
+    "taarCount": 5,
+    "nonRecommendedTop10": 8
+  },
+  {
+    "term": "adguard",
+    "rank": 33,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "1password",
+    "rank": 77,
+    "results": 50,
+    "taarCount": 6,
+    "nonRecommendedTop10": 5
+  },
+  {
+    "term": "speed dial",
+    "rank": 90,
+    "results": 50,
+    "taarCount": 5,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "Adblock",
+    "rank": 99,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "https everywhere",
+    "rank": 95,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "pocket",
+    "rank": 88,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "google",
+    "rank": 49,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 10
+  },
+  {
+    "term": "downloader",
+    "rank": 31,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "adb",
+    "rank": 39,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "youtube download",
+    "rank": 21,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "block",
+    "rank": 35,
+    "results": 50,
+    "taarCount": 6,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "noscript",
+    "rank": 27,
+    "results": 50,
+    "taarCount": 1,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "addblocker",
+    "rank": 89,
+    "results": 50,
+    "taarCount": 9,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "last pass",
+    "rank": 100,
+    "results": 50,
+    "taarCount": 5,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "video downloadhelper",
+    "rank": 86,
+    "results": 50,
+    "taarCount": 3,
+    "nonRecommendedTop10": 7
+  },
+  {
+    "term": "webrtc",
+    "rank": 84,
+    "results": 50,
+    "taarCount": 2,
+    "nonRecommendedTop10": 9
+  },
+  {
+    "term": "download helper",
+    "rank": 38,
+    "results": 50,
+    "taarCount": 4,
+    "nonRecommendedTop10": 9
+  }
+]

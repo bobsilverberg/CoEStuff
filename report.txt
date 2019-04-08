@@ -1,0 +1,99 @@
+Search term rank | Search term | Number of search results | Number of TAAR results | Number of top 10 non-TAAR results
+1 | shockwave flash | 14 | 0 | 10
+2 | video download helper | 10 | 1 | 9
+3 | zenmate | 15 | 0 | 10
+4 | dashlane | 16 | 1 | 9
+5 | traductor | 34 | 0 | 10
+6 | vpn | 50 | 1 | 10
+7 | shockwave | 20 | 0 | 10
+8 | adobe flash player | 19 | 0 | 10
+9 | proxy | 50 | 1 | 10
+10 | adobe | 50 | 1 | 10
+11 | youtube mp3 | 50 | 1 | 10
+12 | downloadhelper | 50 | 4 | 8
+13 | java | 50 | 0 | 10
+14 | facebook | 50 | 1 | 9
+15 | ghostery | 50 | 1 | 9
+16 | ad blocker | 50 | 5 | 6
+17 | adblocker | 50 | 3 | 9
+18 | youtube download | 50 | 2 | 9
+19 | webrtc | 50 | 2 | 9
+20 | adblock plus | 50 | 4 | 9
+21 | downthemall | 50 | 5 | 8
+22 | adb | 50 | 4 | 7
+23 | abp | 50 | 1 | 9
+24 | addblock | 50 | 9 | 8
+25 | user | 50 | 1 | 9
+26 | ad | 50 | 6 | 7
+27 | noscript | 50 | 1 | 9
+28 | translate | 50 | 3 | 7
+29 | firebug | 50 | 4 | 8
+30 | adblock | 50 | 4 | 9
+31 | internet download manager | 21 | 1 | 9
+32 | https | 50 | 3 | 8
+33 | hola | 50 | 0 | 10
+34 | ad block | 50 | 5 | 7
+35 | adblok | 50 | 3 | 7
+36 | translator | 50 | 3 | 9
+37 | imacros | 50 | 0 | 10
+38 | adobe flash | 50 | 0 | 10
+39 | Shockwave Flash | 14 | 0 | 10
+40 | add | 50 | 0 | 10
+41 | addblocker | 50 | 9 | 7
+42 | flashgot | 50 | 0 | 10
+43 | pdf | 50 | 1 | 9
+44 | google translate | 50 | 2 | 8
+45 | last pass | 50 | 5 | 9
+46 | video downloader | 50 | 3 | 8
+47 | dark | 50 | 2 | 8
+48 | screenshot | 50 | 1 | 9
+49 | add block | 50 | 7 | 10
+50 | youtube | 50 | 6 | 9
+51 | tampermonkey | 50 | 0 | 10
+52 | download youtube | 50 | 2 | 10
+53 | cookie | 50 | 3 | 9
+54 | honey | 50 | 1 | 9
+55 | youtube downloader | 50 | 2 | 9
+56 | youtube video downloader | 50 | 3 | 9
+57 | https everywhere | 50 | 1 | 9
+58 | hoxx | 50 | 0 | 10
+59 | browsec | 50 | 0 | 10
+60 | no script | 50 | 1 | 9
+61 | silverlight | 50 | 1 | 9
+62 | instagram | 50 | 0 | 10
+63 | ublock origin | 31 | 3 | 9
+64 | ublock | 50 | 9 | 8
+65 | VPN | 50 | 1 | 10
+66 | IDM | 50 | 0 | 10
+67 | ADBLOCK | 50 | 4 | 9
+68 | downloader | 50 | 3 | 9
+69 | 1password | 50 | 6 | 5
+70 | whatsapp | 50 | 1 | 10
+71 | selenium | 50 | 0 | 10
+72 | lastpass | 50 | 2 | 8
+73 | vk | 50 | 0 | 10
+74 | pocket | 50 | 3 | 10
+75 | privacy badger | 49 | 5 | 5
+76 | user agent | 50 | 3 | 9
+77 | anonymox | 50 | 1 | 9
+78 | video download | 50 | 3 | 7
+79 | video | 50 | 5 | 9
+80 | flash | 50 | 0 | 10
+81 | speed dial | 50 | 5 | 7
+82 | mp3 | 50 | 0 | 10
+83 | idm | 50 | 0 | 10
+84 | video downloadhelper | 50 | 3 | 7
+85 | download | 50 | 4 | 10
+86 | add blocker | 50 | 6 | 9
+87 | adguard | 50 | 3 | 7
+88 | themes | 50 | 0 | 10
+89 | vlc | 46 | 0 | 10
+90 | flash video downloader | 23 | 1 | 10
+91 | google | 50 | 3 | 10
+92 | gmail | 50 | 0 | 10
+93 | flash player | 50 | 0 | 10
+94 | download helper | 50 | 4 | 9
+95 | Adblock | 50 | 4 | 9
+96 | block | 50 | 6 | 9
+97 | savefrom | 42 | 0 | 10
+98 | download video | 50 | 4 | 10
